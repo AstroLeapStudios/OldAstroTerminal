@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ASTRO Programming Language/1.0.0": {
+        "runtime": {
+          "ASTRO Programming Language.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ASTRO Programming Language/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

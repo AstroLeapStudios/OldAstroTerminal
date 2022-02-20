@@ -1,0 +1,16 @@
+D:\Programming and Leaking\Programming\Everything VSCode\ASTRO Programming Language\bin\Debug\net5.0\ASTRO Programming Language.exe
+D:\Programming and Leaking\Programming\Everything VSCode\ASTRO Programming Language\bin\Debug\net5.0\ASTRO Programming Language.deps.json
+D:\Programming and Leaking\Programming\Everything VSCode\ASTRO Programming Language\bin\Debug\net5.0\ASTRO Programming Language.runtimeconfig.json
+D:\Programming and Leaking\Programming\Everything VSCode\ASTRO Programming Language\bin\Debug\net5.0\ASTRO Programming Language.runtimeconfig.dev.json
+D:\Programming and Leaking\Programming\Everything VSCode\ASTRO Programming Language\bin\Debug\net5.0\ASTRO Programming Language.dll
+D:\Programming and Leaking\Programming\Everything VSCode\ASTRO Programming Language\bin\Debug\net5.0\ref\ASTRO Programming Language.dll
+D:\Programming and Leaking\Programming\Everything VSCode\ASTRO Programming Language\bin\Debug\net5.0\ASTRO Programming Language.pdb
+D:\Programming and Leaking\Programming\Everything VSCode\ASTRO Programming Language\obj\Debug\net5.0\ASTRO Programming Language.csprojAssemblyReference.cache
+D:\Programming and Leaking\Programming\Everything VSCode\ASTRO Programming Language\obj\Debug\net5.0\ASTRO Programming Language.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming and Leaking\Programming\Everything VSCode\ASTRO Programming Language\obj\Debug\net5.0\ASTRO Programming Language.AssemblyInfoInputs.cache
+D:\Programming and Leaking\Programming\Everything VSCode\ASTRO Programming Language\obj\Debug\net5.0\ASTRO Programming Language.AssemblyInfo.cs
+D:\Programming and Leaking\Programming\Everything VSCode\ASTRO Programming Language\obj\Debug\net5.0\ASTRO Programming Language.csproj.CoreCompileInputs.cache
+D:\Programming and Leaking\Programming\Everything VSCode\ASTRO Programming Language\obj\Debug\net5.0\ASTRO Programming Language.dll
+D:\Programming and Leaking\Programming\Everything VSCode\ASTRO Programming Language\obj\Debug\net5.0\ref\ASTRO Programming Language.dll
+D:\Programming and Leaking\Programming\Everything VSCode\ASTRO Programming Language\obj\Debug\net5.0\ASTRO Programming Language.pdb
+D:\Programming and Leaking\Programming\Everything VSCode\ASTRO Programming Language\obj\Debug\net5.0\ASTRO Programming Language.genruntimeconfig.cache
